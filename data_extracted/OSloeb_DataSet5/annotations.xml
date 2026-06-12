@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>9</id>
+      <size>17</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-29 19:30:48.970437+00:00</created>
+      <updated>2026-05-29 19:48:51.098594+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>16</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>9</id>
+          <start>0</start>
+          <stop>16</stop>
+          <url>http://192.168.8.156:8080/api/jobs/9/dataset/export/api/jobs/9</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ramazanmoldabek06</username>
+        <email>ramazanmoldabek06@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Table</name>
+          <color>#ff007c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Notes</name>
+          <color>#029c0d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Table With Blueprint</name>
+          <color>#b3bd00</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Blueprint</name>
+          <color>#2b00ff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-05-29 19:49:05.959329+00:00</dumped>
+  </meta>
+  <image id="0" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page1.png" width="2382" height="1684">
+  </image>
+  <image id="1" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page10.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="137.39" ytl="62.18" xbr="2055.31" ybr="1241.89" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="1832.45" ytl="154.97" xbr="2346.66" ybr="316.56" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="113.00" ytl="1330.66" xbr="1077.26" ybr="1526.73" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="142.34" ytl="1587.71" xbr="1010.88" ybr="1644.10" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page11.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="126.12" ytl="124.68" xbr="1813.20" ybr="1210.00" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1814.73" ytl="264.06" xbr="2352.37" ybr="618.06" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page12.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="126.57" ytl="104.70" xbr="1811.00" ybr="1247.05" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1813.63" ytl="264.47" xbr="2353.10" ybr="619.46" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="142.62" ytl="1360.03" xbr="1121.62" ybr="1607.62" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page13.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="126.04" ytl="60.37" xbr="1811.06" ybr="1248.25" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1814.05" ytl="262.70" xbr="2380.22" ybr="619.38" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="139.53" ytl="1544.29" xbr="806.87" ybr="1609.56" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page14.png" width="2382" height="1684">
+    <box label="Table" source="manual" occluded="0" xtl="517.13" ytl="237.40" xbr="1737.94" ybr="895.84" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1813.84" ytl="261.15" xbr="2353.38" ybr="621.19" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page15.png" width="2382" height="1684">
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="115.12" ytl="187.48" xbr="1161.95" ybr="1129.36" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1814.67" ytl="260.51" xbr="2353.20" ybr="618.04" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="147.42" ytl="1458.37" xbr="1185.87" ybr="1627.86" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page16.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="112.80" ytl="151.36" xbr="1133.35" ybr="571.51" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="113.77" ytl="700.50" xbr="1134.81" ybr="899.32" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="1196.76" ytl="153.93" xbr="2355.46" ybr="731.20" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="170.22" ytl="990.11" xbr="1248.05" ybr="1416.23" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1296.99" ytl="825.39" xbr="2336.63" ybr="1295.68" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page17.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="633.62" ytl="163.64" xbr="1864.94" ybr="927.21" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1301.49" ytl="1285.50" xbr="2008.91" ybr="1315.52" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page2.png" width="2382" height="1684">
+  </image>
+  <image id="10" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page3.png" width="2382" height="1684">
+    <box label="Table" source="manual" occluded="0" xtl="114.48" ytl="38.92" xbr="1163.66" ybr="808.80" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1228.12" ytl="56.82" xbr="2301.18" ybr="490.11" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1221.89" ytl="521.15" xbr="2285.30" ybr="822.22" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1220.37" ytl="843.21" xbr="2174.68" ybr="1310.00" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="147.00" ytl="862.42" xbr="1154.84" ybr="1340.54" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page4.png" width="2382" height="1684">
+    <box label="Notes" source="manual" occluded="0" xtl="176.96" ytl="94.76" xbr="1142.27" ybr="667.91" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="175.00" ytl="708.47" xbr="1106.75" ybr="1012.67" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="177.25" ytl="1047.60" xbr="1194.63" ybr="1445.31" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1243.64" ytl="92.07" xbr="2233.98" ybr="467.25" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1244.77" ytl="511.19" xbr="2255.39" ybr="981.01" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page5.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="153.80" ytl="92.72" xbr="1693.01" ybr="1094.43" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="1802.90" ytl="73.49" xbr="2332.31" ybr="675.30" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page6.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="554.31" ytl="48.57" xbr="2325.63" ybr="853.08" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="219.24" ytl="886.23" xbr="1220.95" ybr="1638.39" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1294.58" ytl="1194.18" xbr="2281.97" ybr="1326.10" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page7.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="449.81" ytl="63.99" xbr="2188.88" ybr="845.29" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="195.30" ytl="879.04" xbr="1193.85" ybr="1631.21" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1297.95" ytl="1198.22" xbr="2283.46" ybr="1322.77" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page8.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="129.71" ytl="119.94" xbr="1780.20" ybr="1263.01" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="1814.19" ytl="287.44" xbr="2352.73" ybr="754.00" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="F113 Том II. Альбом 1.  Архитектурно-строительные решения (АC) (получено 07.04.22)_page9.png" width="2382" height="1684">
+    <box label="Blueprint" source="manual" occluded="0" xtl="418.54" ytl="41.76" xbr="2300.42" ybr="1063.60" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="113.37" ytl="1065.85" xbr="1078.92" ybr="1655.10" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="1803.37" ytl="1073.74" xbr="2317.13" ybr="1216.83" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1300.87" ytl="1258.51" xbr="2249.53" ybr="1319.35" z_order="0">
+    </box>
+  </image>
+</annotations>

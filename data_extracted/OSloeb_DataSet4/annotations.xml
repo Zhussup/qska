@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>8</id>
+      <size>7</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-29 19:08:31.039663+00:00</created>
+      <updated>2026-05-29 19:26:27.061149+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>6</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>8</id>
+          <start>0</start>
+          <stop>6</stop>
+          <url>http://192.168.8.156:8080/api/jobs/8/dataset/export/api/jobs/8</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ramazanmoldabek06</username>
+        <email>ramazanmoldabek06@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Table</name>
+          <color>#ff007c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Notes</name>
+          <color>#029c0d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Table With Blueprint</name>
+          <color>#b3bd00</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Blueprint</name>
+          <color>#2b00ff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-05-29 19:26:39.336743+00:00</dumped>
+  </meta>
+  <image id="0" name="AR-2_AJ_ТЗ на витражи оранжереи_page1.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="304.40" ytl="156.98" xbr="1869.51" ybr="722.50" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="2152.55" ytl="150.99" xbr="2886.57" ybr="722.21" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="251.95" ytl="919.15" xbr="1820.77" ybr="1481.11" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="2211.04" ytl="903.28" xbr="2886.75" ybr="1478.59" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="202.70" ytl="1866.69" xbr="1194.33" ybr="2285.72" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2252.20" ytl="1835.58" xbr="2600.32" ybr="1941.20" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="AR-2_AJ_ТЗ на витражи оранжереи_page2.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="338.93" ytl="149.19" xbr="1833.79" ybr="940.41" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="344.83" ytl="995.53" xbr="1836.45" ybr="1730.02" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="2763.72" ytl="122.48" xbr="3244.42" ybr="384.18" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="2255.47" ytl="410.35" xbr="3245.80" ybr="611.44" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="2257.60" ytl="634.03" xbr="3245.39" ybr="1950.38" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="1226.11" ytl="2079.30" xbr="2122.51" ybr="2187.63" z_order="0">
+    </box>
+    <box label="Table With Blueprint" source="manual" occluded="0" xtl="427.57" ytl="1757.80" xbr="1115.88" ybr="2190.95" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="AR-2_AJ_ТЗ на витражи оранжереи_page3.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="291.61" ytl="226.54" xbr="2254.40" ybr="1216.47" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="2000.51" ytl="220.14" xbr="3071.51" ybr="1165.26" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2252.84" ytl="1779.42" xbr="2587.91" ybr="1915.88" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="AR-2_AJ_ТЗ на витражи оранжереи_page4.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="363.30" ytl="177.21" xbr="1886.89" ybr="926.23" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="2495.67" ytl="121.43" xbr="3243.09" ybr="712.68" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2254.39" ytl="1885.79" xbr="2512.54" ybr="1922.67" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="AR-2_AJ_ТЗ на витражи оранжереи_page5.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="339.60" ytl="209.24" xbr="1133.62" ybr="590.18" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="1389.56" ytl="203.29" xbr="1800.26" ybr="590.18" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="2033.58" ytl="204.48" xbr="2833.56" ybr="590.18" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="367.57" ytl="796.13" xbr="652.08" ybr="1318.73" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="1215.16" ytl="823.51" xbr="1990.13" ybr="1378.25" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2253.53" ytl="1692.57" xbr="2862.99" ybr="1915.53" z_order="0">
+    </box>
+    <box label="Table" source="manual" occluded="0" xtl="204.98" ytl="1775.87" xbr="1943.10" ybr="2285.50" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="AR-2_AJ_ТЗ на витражи оранжереи_page6.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="281.12" ytl="191.87" xbr="1597.48" ybr="1297.87" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="1796.03" ytl="151.53" xbr="3170.98" ybr="1316.65" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="619.39" ytl="1284.86" xbr="1768.15" ybr="2236.32" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2251.61" ytl="1888.86" xbr="2556.73" ybr="1919.60" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="AR-2_AJ_ТЗ на витражи оранжереи_page7.png" width="3368" height="2382">
+    <box label="Blueprint" source="manual" occluded="0" xtl="1962.75" ytl="191.34" xbr="2875.88" ybr="1315.67" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="360.52" ytl="276.67" xbr="1702.47" ybr="1150.60" z_order="0">
+    </box>
+    <box label="Blueprint" source="manual" occluded="0" xtl="302.47" ytl="1149.26" xbr="1885.50" ybr="2252.26" z_order="0">
+    </box>
+    <box label="Notes" source="manual" occluded="0" xtl="2254.10" ytl="1891.73" xbr="2557.79" ybr="1918.14" z_order="0">
+    </box>
+  </image>
+</annotations>

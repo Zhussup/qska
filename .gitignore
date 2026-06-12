@@ -1,0 +1,51 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Secrets (API keys, tokens, etc.)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# AI-agent docs (CLAUDE.md is for the local IDE/agent only, not for git)
+CLAUDE.md
+
+# Project artefacts (regenerated on every run)
+artifacts/
+artifacts/**
+
+# Old experiments and benchmarks (kept locally, not in repo)
+archive/
+
+# Frontend
+web/node_modules/
+web/dist/
+web/.vite/
+web/.cache/
+web/coverage/
+
+# Logs and runtime
+*.log
+*.tmp
+*.bak
+*.swp
